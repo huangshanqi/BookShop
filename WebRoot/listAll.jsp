@@ -23,7 +23,7 @@
 <!--
 	<link rel="stylesheet" type="text/css" href="styles.css">
 	-->
-	<script type="text/javascript" src="script/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="script/jquery-1.11.1.min.js"></script>
 	<script type="text/javascript">
 	
 	$(function(){

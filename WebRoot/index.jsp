@@ -23,7 +23,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <body>
   <h1>首页</h1>
   </br>
-  <a href ="http://www.baidu.com">我是百度</a>
+  <a href ="login.jsp">登录我的书店</a>
   <a href="addbook.jsp">添加书目信息</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="listAll.do?pageNo=1">查看全部书目</a>
   </body>
 </html>
